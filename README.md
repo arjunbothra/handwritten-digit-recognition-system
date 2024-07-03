@@ -71,6 +71,10 @@ The goal of this project is to develop a machine learning model that can accurat
 6. **Make Predictions:**
 
    Modify the `predict.py` script to load the trained model (`model.keras`) and perform predictions on new handwritten digits.
+      ```bash
+   python train.py
+   ```
+
 
 ## File Structure
 
